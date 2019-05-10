@@ -12,7 +12,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="ishop" options="-extdirs C:\Users\ZWB\Downloads\ishop/src/main/webapp/WEB-INF/lib" />
+      <module name="ishop" options="-extdirs C:\Users\Administrator.DESKTOP-OAUS6FU\Downloads\ishop/src/main/webapp/WEB-INF/lib" />
     </option>
   </component>
 </project>

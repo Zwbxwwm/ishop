@@ -6,126 +6,98 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3171287e-b046-4af7-8412-4b0fa77049a4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ishop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/TokenCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/CartegoryManageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManagerController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/UserManageContoller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/ICategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IFileService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/DateTimeUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/PropertiesUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/SftpUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductDetailVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductListVo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/ishop.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$ProductListOrderBy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$ProductStatusEnum.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/CartegoryManageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/ProductManagerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/UserManageContoller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/ProductController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/ICategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/CategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/FileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/DateTimeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/FTPUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/MD5Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/SftpUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/ProductDetailVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/mmall/vo/ProductListVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/META-INF/ishop.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/Const$Role.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/Const.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/ResponseCode.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/ServerResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/TokenCache$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/TokenCache.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/CartegoryManageController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/ProductManagerController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/UserManageContoller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/portal/UserController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/ICategoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/IFileService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/IProductService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/IUserService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/CategoryServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/FileServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/DateTimeUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/FTPUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/MD5Util.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/PropertiesUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/SftpUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/vo/ProductDetailVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/vo/ProductListVo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/lib/jsch-0.1.49.jar" afterDir="false" />
+    <list default="true" id="3eb229ab-36ab-4602-86e9-f0d977c0348f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/CartController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/wx/wxController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/ICartService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IWxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CartServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/WxService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/BigDecimalUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/CartProductVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/mmall/vo/CartVo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ishop/test/BigDecimalTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ishop.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ishop.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/common/ResponseCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/ResponseCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CategoryMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CategoryMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/dao/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/ProductMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/dao/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/UserMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/CategoryMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManagerController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManagerController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CartMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/dao/CartMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/datasource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/datasource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/mmall.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mmall.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/common/ResponseCode.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/ResponseCode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/ishop.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$ProductStatusEnum.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const$ProductStatusEnum.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/common/Const.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/Const.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/common/ServerResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/ServerResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/common/TokenCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/CartegoryManageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/CartegoryManageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/ProductManagerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/ProductManagerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/UserManageContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/backend/UserManageContoller.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/controller/portal/UserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/dao/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/CategoryMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/dao/ProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/ProductMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/UserMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/dao/CartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/dao/CartMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/service/IUserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/IUserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/pojo/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/pojo/PayInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/PayInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Shipping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/Shipping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/FileServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/FileServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/ProductServiceImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mappers/CategoryMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mappers/ProductMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mappers/UserMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/util/FTPUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/FTPUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/util/MD5Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/MD5Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/util/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/PropertiesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/util/SftpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/SftpUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/mmall/util/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/mmall/util/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/datasource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/datasource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/mappers/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mappers/CartMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/mmall.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mmall.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ishop.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/CategoryMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/CategoryMapper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/Const.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/Const.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/ServerResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/ServerResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/TokenCache$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/TokenCache$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/TokenCache.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/common/TokenCache.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/CartegoryManageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/CartegoryManageController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/ProductManagerController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/ProductManagerController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/UserManageContoller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/backend/UserManageContoller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/portal/UserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/controller/portal/UserController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/CartMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/CartMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/ProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/ProductMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/UserMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/dao/UserMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/Category.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/Category.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/CategoryMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/CategoryMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/PayInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/PayInfo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/Shipping.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/Shipping.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/pojo/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/ICategoryService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/ICategoryService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/IProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/IProductService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/CategoryServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/CategoryServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/FileServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/FileServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/ProductServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/service/impl/UserServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/FTPUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/FTPUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/MD5Util.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/MD5Util.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/PropertiesUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/PropertiesUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/SftpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/SftpUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/com/mmall/util/test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/datasource.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/datasource.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/generatorConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/CartMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/CartMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/ProductMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/ProductMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/UserMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mappers/UserMapper.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mmall.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/WEB-INF/classes/mmall.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/ishop/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/ishop/index.jsp" afterDir="false" />
     </list>
@@ -137,79 +109,78 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CompilerWorkspaceConfiguration">
-    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="82" selection-start-line="82" selection-end-line="86" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-54">
+              <caret line="9" column="54" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#867#868#0" expanded="true" />
+                <element signature="e#933#934#0" expanded="true" />
+                <element signature="e#961#962#0" expanded="true" />
+                <element signature="e#990#991#0" expanded="true" />
+                <element signature="e#1018#1019#0" expanded="true" />
+                <element signature="e#1044#1045#0" expanded="true" />
+                <element signature="e#1068#1069#0" expanded="true" />
+                <element signature="e#1095#1096#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/ProductController.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="31" column="108" selection-start-line="31" selection-start-column="108" selection-end-line="31" selection-end-column="108" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3135">
-              <caret line="184" column="142" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="142" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="19" column="136" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="419">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>RequestMethod.GET</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>RequestMethod.POST</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>C:\Users\ZWB\.m2\repository\mysql\mysql-connector-java\5.1.6\mysql-connector-java-5.1.6.jar</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -217,57 +188,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/OrderItemMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/OrderMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/PayInfoMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/ShippingMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/datasource.properties" />
-        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/dao/CartMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/common/TokenCache.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/UserManageContoller.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/PropertiesUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/dao/UserMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ICategoryService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/dao/CategoryMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/pojo/Category.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/CategoryMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductDetail.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductDetailVo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/DateTimeUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductListVo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/common/ResponseCode.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/IFileService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManagerController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/JSchUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/sftpUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mmall.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/SftpUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CategoryServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/ICategoryService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/CartegoryManageController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/dao/ProductMapper.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/ProductController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java" />
       </list>
     </option>
   </component>
@@ -279,9 +203,14 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="12" />
       </MavenImportingSettings>
     </option>
   </component>
@@ -301,45 +230,19 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1040" />
-  </component>
-  <component name="ProjectInspectionProfilesVisibleTreeState">
-    <entry key="Project Default">
-      <profile-state>
-        <expanded-state>
-          <State />
-          <State>
-            <id>CodeSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>SetupSpring CoreSpring</id>
-          </State>
-          <State>
-            <id>Spring</id>
-          </State>
-          <State>
-            <id>Spring CoreSpring</id>
-          </State>
-        </expanded-state>
-        <selected-state>
-          <State>
-            <id>SpringJavaInjectionPointsAutowiringInspection</id>
-          </State>
-        </selected-state>
-      </profile-state>
-    </entry>
-  </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -427,34 +330,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ishop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ishop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ishop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -462,24 +337,7 @@
               <item name="ishop" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="mmall" type="462c0819:PsiDirectoryNode" />
-              <item name="vo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ishop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ishop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="mappers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
@@ -490,41 +348,23 @@
             </path>
             <path>
               <item name="ishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ishop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553075171182" />
-    <property name="last_opened_file_path" value="F:/小程序后端/课程/SSM开发/java电商源代码/k13d6t" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.mmall.util" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ZWB\Downloads\ishop\src\main\resources" />
-      <recent name="C:\Users\ZWB\Downloads\ishop\src\main\webapp\WEB-INF" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -538,63 +378,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Tomcat Server.tomcat1">
-    <configuration name="FileServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mmall.service.impl.FileServiceImpl" />
-      <module name="ishop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mmall.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MD5Util" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mmall.util.MD5Util" />
-      <module name="ishop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mmall.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SftpUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mmall.util.SftpUtils" />
-      <module name="ishop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mmall.util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UserServiceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mmall.service.impl.UserServiceImpl" />
-      <module name="ishop" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mmall.service.impl.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
-      <deployment />
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="ishop:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/ishop_war" />
+          </settings>
+        </artifact>
+      </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="_ishop" />
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_19_ishop" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -602,7 +397,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="61740" />
+        <option name="DEBUG_PORT" value="61611" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -634,6 +429,21 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="JProfiler">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
@@ -651,19 +461,22 @@
       </ConfigurationWrapper>
       <method v="2">
         <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="ishop:war" />
+        </option>
       </method>
     </configuration>
-    <configuration name="tomcat1" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false">
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.19" ALTERNATIVE_JRE_ENABLED="false">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="ishop:war">
           <settings>
-            <option name="CONTEXT_PATH" value="/" />
+            <option name="CONTEXT_PATH" value="/ishop_war" />
           </settings>
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="Unnamed_(1)_ishop" />
+        <option name="BASE_DIRECTORY_NAME" value="_ishop" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
@@ -671,7 +484,7 @@
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
       <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="61740" />
+        <option name="DEBUG_PORT" value="61611" />
       </RunnerSettings>
       <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
@@ -725,773 +538,166 @@
         </option>
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.SftpUtils" />
-        <item itemvalue="Application.FileServiceImpl" />
-        <item itemvalue="Application.MD5Util" />
-        <item itemvalue="Application.UserServiceImpl" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3171287e-b046-4af7-8412-4b0fa77049a4" name="Default Changelist" comment="" />
-      <created>1542551087448</created>
+      <changelist id="3eb229ab-36ab-4602-86e9-f0d977c0348f" name="Default Changelist" comment="" />
+      <created>1555763718258</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542551087448</updated>
-      <workItem from="1542551088947" duration="2967000" />
-      <workItem from="1542597844723" duration="13000" />
-      <workItem from="1542808975829" duration="306000" />
-      <workItem from="1542809431070" duration="33000" />
-      <workItem from="1543046004865" duration="3769000" />
-      <workItem from="1543051810622" duration="37000" />
-      <workItem from="1543053313143" duration="928000" />
-      <workItem from="1543072139195" duration="34000" />
-      <workItem from="1543073465087" duration="560000" />
-      <workItem from="1543074062043" duration="1354000" />
-      <workItem from="1543114537004" duration="4170000" />
-      <workItem from="1543149828637" duration="530000" />
-      <workItem from="1543150608043" duration="428000" />
-      <workItem from="1543151065398" duration="787000" />
-      <workItem from="1543224266716" duration="631000" />
-      <workItem from="1543225140369" duration="1234000" />
-      <workItem from="1543287220432" duration="1911000" />
-      <workItem from="1543545386922" duration="710000" />
-      <workItem from="1543894607164" duration="2332000" />
-      <workItem from="1545382314743" duration="3048000" />
-      <workItem from="1546771326896" duration="5458000" />
-      <workItem from="1546836124517" duration="885000" />
-      <workItem from="1546863427136" duration="3011000" />
-      <workItem from="1546950387823" duration="2685000" />
-      <workItem from="1546955669399" duration="3727000" />
-      <workItem from="1547005572104" duration="6656000" />
-      <workItem from="1547015305688" duration="2470000" />
-      <workItem from="1547017829085" duration="1086000" />
-      <workItem from="1547019026925" duration="3235000" />
-      <workItem from="1547086328142" duration="1884000" />
-      <workItem from="1547088265159" duration="591000" />
-      <workItem from="1547089304752" duration="15907000" />
-      <workItem from="1547188406766" duration="8289000" />
-      <workItem from="1547216912384" duration="5239000" />
-      <workItem from="1547268703018" duration="9684000" />
-      <workItem from="1547281542170" duration="621000" />
-      <workItem from="1547285524409" duration="2612000" />
-      <workItem from="1547351623862" duration="3351000" />
-      <workItem from="1547442660178" duration="6706000" />
-      <workItem from="1547526103601" duration="6745000" />
-      <workItem from="1547615995203" duration="4381000" />
-      <workItem from="1547701827089" duration="1403000" />
-      <workItem from="1547716371875" duration="295000" />
-      <workItem from="1547717791879" duration="182000" />
-      <workItem from="1547718008887" duration="824000" />
-      <workItem from="1547787597316" duration="6227000" />
-      <workItem from="1550822156490" duration="9991000" />
-      <workItem from="1551090246518" duration="179000" />
-      <workItem from="1551098739367" duration="883000" />
-      <workItem from="1551166213306" duration="24000" />
-      <workItem from="1551183173494" duration="4203000" />
-      <workItem from="1551266292837" duration="22000" />
-      <workItem from="1551271307891" duration="3599000" />
-      <workItem from="1551339746517" duration="884000" />
-      <workItem from="1551344551385" duration="147000" />
-      <workItem from="1551771877464" duration="1240000" />
-      <workItem from="1551957058507" duration="513000" />
-      <workItem from="1552010608366" duration="6332000" />
-      <workItem from="1552137705965" duration="2712000" />
-      <workItem from="1552309665314" duration="5495000" />
-      <workItem from="1552355977702" duration="11059000" />
-      <workItem from="1552442459996" duration="11000" />
-      <workItem from="1552452480082" duration="773000" />
-      <workItem from="1552548891848" duration="661000" />
-      <workItem from="1552569987997" duration="2346000" />
-      <workItem from="1552615297387" duration="4463000" />
-      <workItem from="1552646518925" duration="3039000" />
-      <workItem from="1552654672062" duration="1325000" />
-      <workItem from="1552656433667" duration="1691000" />
-      <workItem from="1552699748238" duration="10000" />
-      <workItem from="1552802551620" duration="20122000" />
-      <workItem from="1552876333899" duration="3879000" />
-      <workItem from="1552907553002" duration="549000" />
-      <workItem from="1552910487937" duration="4658000" />
-      <workItem from="1552918227152" duration="1205000" />
-      <workItem from="1553072595291" duration="233000" />
-      <workItem from="1553072969734" duration="2475000" />
-      <workItem from="1553129333047" duration="590000" />
+      <updated>1555763718258</updated>
+      <workItem from="1555763721232" duration="2518000" />
+      <workItem from="1555766666184" duration="1365000" />
+      <workItem from="1555768317510" duration="243000" />
+      <workItem from="1555854496474" duration="23000" />
+      <workItem from="1556332319117" duration="8000" />
+      <workItem from="1556332843860" duration="175000" />
+      <workItem from="1557455410884" duration="4957000" />
     </task>
-    <task id="LOCAL-00001" summary="用户表的controller层和service层开发中，顺便做一做测试">
-      <created>1547015457399</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1547015457399</updated>
-    </task>
-    <task id="LOCAL-00002" summary="用户表的controller层和service层开发中，顺便做一做测试">
-      <created>1547016592606</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1547016592606</updated>
-    </task>
-    <task id="LOCAL-00003" summary="用户表的controller层和service层开发中，顺便做一做测试">
-      <created>1547016708973</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1547016708973</updated>
-    </task>
-    <task id="LOCAL-00004" summary="用户表的controller层和service层开发中，顺便做一做测试">
-      <created>1547020887629</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1547020887629</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="225300000" />
-  </component>
-  <component name="TodoView" selected-index="2">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
+    <option name="totallyTimeSpent" value="9289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.29825738" />
-      <window_info id="Structure" order="1" sideWeight="0.50212765" side_tool="true" weight="0.25536194" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23592493" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.36402267" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41218132" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.11189802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798927" weight="0.21104816" />
-      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932975" weight="0.04249292" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" visible="true" weight="0.17280453" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5020107" side_tool="true" weight="0.20963173" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" weight="0.3286119" />
-      <window_info anchor="bottom" id="Spring" order="14" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Problems" order="15" sideWeight="0.4979253" weight="0.16713881" />
-      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49865952" weight="0.3281471" />
+      <window_info anchor="bottom" id="Spring" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50067025" side_tool="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" sideWeight="0.49932975" weight="0.3286119" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.3297587" />
     </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49787235" visible="true" weight="0.21487603" />
-      <window_info id="Structure" order="1" sideWeight="0.50212765" side_tool="true" weight="0.25536194" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info id="Web" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.43342775" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.41218132" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49798927" weight="0.21104816" />
-      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932975" weight="0.34560907" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49865952" weight="0.37677053" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5020107" side_tool="true" weight="0.20963173" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32577905" />
-      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" order="14" sideWeight="0.49932975" weight="0.3286119" />
-      <window_info anchor="bottom" id="Problems" order="15" sideWeight="0.4979253" weight="0.16713881" />
-      <window_info anchor="bottom" id="Docker" order="16" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297587" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="right" id="Maven" order="9" weight="0.3297587" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="用户表的controller层和service层开发中，顺便做一做测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="用户表的controller层和service层开发中，顺便做一做测试" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/PropertiesUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductDetailVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#444#445#0" expanded="true" />
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#1715#1716#0" expanded="true" />
-            <element signature="e#1749#1750#0" expanded="true" />
-            <element signature="e#1782#1783#0" expanded="true" />
-            <element signature="e#1810#1811#0" expanded="true" />
-            <element signature="e#2255#2256#0" expanded="true" />
-            <element signature="e#2287#2288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/vo/ProductListVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-          <folding>
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#466#467#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
-            <element signature="e#596#597#0" expanded="true" />
-            <element signature="e#627#628#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#694#695#0" expanded="true" />
-            <element signature="e#726#727#0" expanded="true" />
-            <element signature="e#761#762#0" expanded="true" />
-            <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-            <element signature="e#948#949#0" expanded="true" />
-            <element signature="e#998#999#0" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1104#1105#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
-            <element signature="e#1184#1185#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1247#1248#0" expanded="true" />
-            <element signature="e#1292#1293#0" expanded="true" />
-            <element signature="e#1328#1329#0" expanded="true" />
-            <element signature="e#1364#1365#0" expanded="true" />
-            <element signature="e#1396#1397#0" expanded="true" />
-            <element signature="e#1446#1447#0" expanded="true" />
-            <element signature="e#1488#1489#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/4.0.0.RELEASE/spring-web-4.0.0.RELEASE.jar!/org/springframework/web/bind/annotation/RequestParam.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#626#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/ResponseCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="95" column="43" selection-start-line="95" selection-start-column="43" selection-end-line="95" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="44" selection-start-line="11" selection-start-column="44" selection-end-line="11" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/dispatcher-servlet.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="56" selection-start-line="37" selection-start-column="56" selection-end-line="37" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/TokenCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/DateTimeUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="5" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/dao/UserMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="87" selection-start-line="28" selection-start-column="87" selection-end-line="28" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="176" column="17" selection-start-line="176" selection-start-column="17" selection-end-line="176" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="836">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/JSchUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IFileService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="58" selection-start-line="5" selection-start-column="58" selection-end-line="5" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/FileServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/FTPUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="50" column="62" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2998#2999#0" expanded="true" />
-            <element signature="e#3024#3025#0" expanded="true" />
-            <element signature="e#3062#3063#0" expanded="true" />
-            <element signature="e#3092#3093#0" expanded="true" />
-            <element signature="e#3121#3122#0" expanded="true" />
-            <element signature="e#3146#3147#0" expanded="true" />
-            <element signature="e#3182#3183#0" expanded="true" />
-            <element signature="e#3210#3211#0" expanded="true" />
-            <element signature="e#3238#3239#0" expanded="true" />
-            <element signature="e#3265#3266#0" expanded="true" />
-            <element signature="e#3302#3303#0" expanded="true" />
-            <element signature="e#3334#3335#0" expanded="true" />
-            <element signature="e#3365#3366#0" expanded="true" />
-            <element signature="e#3392#3393#0" expanded="true" />
-            <element signature="e#3432#3433#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-            <element signature="e#3503#3504#0" expanded="true" />
-            <element signature="e#3535#3536#0" expanded="true" />
-            <element signature="e#3588#3589#0" expanded="true" />
-            <element signature="e#3630#3631#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/SftpUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="66" column="56" selection-start-line="66" selection-start-column="56" selection-end-line="66" selection-end-column="56" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#3283#3284#0" expanded="true" />
-            <element signature="e#3308#3309#0" expanded="true" />
-            <element signature="e#3344#3345#0" expanded="true" />
-            <element signature="e#3372#3373#0" expanded="true" />
-            <element signature="e#3400#3401#0" expanded="true" />
-            <element signature="e#3427#3428#0" expanded="true" />
-            <element signature="e#3464#3465#0" expanded="true" />
-            <element signature="e#3496#3497#0" expanded="true" />
-            <element signature="e#3527#3528#0" expanded="true" />
-            <element signature="e#3554#3555#0" expanded="true" />
-            <element signature="e#3594#3595#0" expanded="true" />
-            <element signature="e#3626#3627#0" expanded="true" />
-            <element signature="e#3656#3657#0" expanded="true" />
-            <element signature="e#3682#3683#0" expanded="true" />
-            <element signature="e#3720#3721#0" expanded="true" />
-            <element signature="e#3750#3751#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/ICategoryService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/CategoryServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="893">
-          <caret line="63" column="41" selection-start-line="63" selection-start-column="41" selection-end-line="63" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mmall.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="40" column="26" selection-start-line="40" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/ProductManagerController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/backend/CartegoryManageController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="85" column="78" lean-forward="true" selection-start-line="85" selection-start-column="78" selection-end-line="85" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/UserMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3154">
-          <caret line="166" column="24" selection-start-line="166" selection-start-column="24" selection-end-line="166" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/ShippingMapper.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/OrderItemMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1444">
-          <caret line="76" column="19" selection-start-line="76" selection-start-column="19" selection-end-line="76" selection-end-column="19" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/dao/CartMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext-datasource.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-285">
-          <caret line="27" column="48" lean-forward="true" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-          <folding>
-            <element signature="e#1549#1572#0" expanded="true" />
-            <element signature="e#1664#1680#0" expanded="true" />
-            <element signature="e#1723#1739#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/Cart.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-202">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/Category.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1159">
-          <caret line="91" column="37" selection-start-line="91" selection-start-column="37" selection-end-line="91" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2072#2073#0" expanded="true" />
-            <element signature="e#2111#2112#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/OrderItem.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/CartMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/Shipping.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/PayInfo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/pojo/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-779">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-563">
-          <caret line="31" column="46" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="170" column="21" selection-start-line="170" selection-start-column="21" selection-end-line="170" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/dao/ProductMapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mappers/ProductMapper.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="213" column="11" lean-forward="true" selection-start-line="213" selection-start-column="11" selection-end-line="213" selection-end-column="11" />
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="31" column="108" selection-start-line="31" selection-start-column="108" selection-end-line="31" selection-end-column="108" />
+        <state relative-caret-position="228">
+          <caret line="22" column="67" selection-start-line="22" selection-start-column="58" selection-end-line="22" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/datasource.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/CartController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="14" lean-forward="true" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="82" selection-start-line="82" selection-end-line="86" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/controller/portal/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="56" column="29" lean-forward="true" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/ServerResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="9" column="54" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#867#868#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#961#962#0" expanded="true" />
+            <element signature="e#990#991#0" expanded="true" />
+            <element signature="e#1018#1019#0" expanded="true" />
+            <element signature="e#1044#1045#0" expanded="true" />
+            <element signature="e#1068#1069#0" expanded="true" />
+            <element signature="e#1095#1096#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/impl/ProductServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/util/MD5Util.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3135">
-          <caret line="184" column="142" selection-start-line="184" selection-start-column="11" selection-end-line="184" selection-end-column="142" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/service/IProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="136" selection-start-line="19" selection-start-column="136" selection-end-line="19" selection-end-column="136" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/mmall/common/Const.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="419">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1514,7 +720,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>Web</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1537,7 +743,6 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1554,18 +759,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>

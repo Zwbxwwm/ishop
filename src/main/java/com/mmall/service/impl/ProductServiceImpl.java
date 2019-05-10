@@ -11,17 +11,20 @@ import com.mmall.dao.ProductMapper;
 import com.mmall.pojo.Category;
 import com.mmall.pojo.Product;
 import com.mmall.service.ICategoryService;
+import com.mmall.service.IProductService;
 import com.mmall.util.DateTimeUtil;
 import com.mmall.util.PropertiesUtil;
 import com.mmall.vo.ProductDetailVo;
 import com.mmall.vo.ProductListVo;
 import org.apache.commons.lang3.StringUtils;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class ProductServiceImpl {
+@Service("iProductService")
+public class ProductServiceImpl implements IProductService {
 
 
     @Autowired
@@ -149,7 +152,7 @@ public class ProductServiceImpl {
 
 
 
-    public ServerResponse<PageInfo> searchProduct(String productName,Integer productId,int pageNum,int pageSize){
+    public ServerResponse<PageInfo> SearchProduct(String productName,Integer productId,int pageNum,int pageSize){
         PageHelper.startPage(pageNum,pageSize);
         if(StringUtils.isNotBlank(productName)){
             productName = new StringBuilder().append("%").append(productName).append("%").toString();
